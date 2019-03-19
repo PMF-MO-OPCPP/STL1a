@@ -47,3 +47,4 @@ git submodule update
 ```
 kako bi se dovukao googletest. Bez njega nećete moći kompilirati kod. 
 
+Molim da izvršni kod smjestite u direktorij *build* paralelan sa *src*. 
