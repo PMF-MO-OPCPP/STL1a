@@ -45,5 +45,5 @@ Ne zaboravite, nakon što ste klonirali repozitorij, napraviti
 git submodule init
 git submodule update 
 ```
-kako bi se dovukao googletes. Bez njega nećete moći kompilirati kod. 
+kako bi se dovukao googletest. Bez njega nećete moći kompilirati kod. 
 
