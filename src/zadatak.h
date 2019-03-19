@@ -11,7 +11,7 @@ void print_permutation(std::string str);
 
 // Zadatak 2
 template <typename InputIt1, typename InputIt2, typename OutputIt>
-void zip(/* VAŠ KOD */)
+void zip(InputIt1 beg1, InputIt1  end1, InputIt2 beg2, InputIt2 end2, OutputIt beg3)
 {
   // VAŠ KOD DOLAZI OVDJE
   throw std::runtime_error("Zadatak nije riješen.");
